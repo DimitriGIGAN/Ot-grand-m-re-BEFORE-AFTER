@@ -1,0 +1,27 @@
+p::before { 
+    content: "愛";
+    color: blue;
+   
+   
+    
+  }
+  p::after {
+    content: '愛';
+    color:red;
+   
+  }
+  h1::before { 
+    content: "愛";
+    color: blue;
+   
+   
+    
+  }
+  h1::after {
+    content: '愛';
+    color:red;
+   
+  }
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+  }
